@@ -1,6 +1,6 @@
-![alt-text]("Screen Shot 2020-02-02 at 3.08.24 PM.png")
+![](screen-shots/ScreenShot1.png)
 
-![alt-text]("Screen Shot 2020-02-02 at 3.06.43. PM.png")
+![](screen-shots/ScreenShot2.png)
 
 When the user clicks on the generate password button in the middle of the screen which thanks to the 'click event handler' then the function i created is ran. 
 Beginning with prompt and followed by a series of confirms displayed as popups. 
