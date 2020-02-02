@@ -1,6 +1,4 @@
-[![Screen-Shot-2020-02-02-at-3-06-43-PM.png](https://i.postimg.cc/vTmrPQS9/Screen-Shot-2020-02-02-at-3-06-43-PM.png)](https://postimg.cc/XGTBq0W7)
-
-[![Screen-Shot-2020-02-02-at-3-08-24-PM.png](https://i.postimg.cc/RhcWQ2vf/Screen-Shot-2020-02-02-at-3-08-24-PM.png)](https://postimg.cc/bSwYqCDN)
+![screen-shots] 
 
 Random(ish) Password Generator.
 
