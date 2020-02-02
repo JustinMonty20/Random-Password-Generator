@@ -1,4 +1,5 @@
-![alt-text](screen-shots/Screen Shot 2020-02-02 at 3.08.24 PM.png)
+![alt-text](./screen-shots/Screen Shot 2020-02-02 at 3.08.24 PM.png)
+
 ![alt-text](https://github.com/JustinMonty20/Random-Password-Generator/blob/c887b01e320e526ebc223fb6e6bffe27014e9001/screen-shots/Screen Shot 2020-02-02 at 3.06.43 PM.png)
 
 Random(ish) Password Generator.
