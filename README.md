@@ -1,4 +1,4 @@
-![](./screen-shots/ScreenShot1.png)
+![](./screen-shots/screenShot1.png)
 
 ![](./screen-shots/screenShot2.png)
 
